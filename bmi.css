@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.parent{
+    text-align: center;
+    margin-top: 150px;
+}
+.one{
+    margin-bottom: 30px;
+}
+label{
+    font-size: 30px;
+}
+input{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    padding: 20px 40px 20px 40px;
+    background: rgb(8, 8, 133);
+    color: white;
+    border-radius: 30px;
+}
+button:hover{
+    color: wheat;
+    background: rgb(2, 2, 43);
+}
+.text{
+    color: rgb(2, 2, 43);
+    margin-top: 20px;
+}
